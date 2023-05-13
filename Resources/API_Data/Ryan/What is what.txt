@@ -1,0 +1,26 @@
+average_prices.csv
+This dataset breaks down individual items by price over time. Data is sourced from BLS
+Notes from the dataset author:
+Average consumer prices are calculated for household fuel, motor fuel, and food items from prices collected for the Consumer Price Index (CPI). Average prices are best used to measure the price level in a particular month, not to measure price change over time. It is more appropriate to use CPI index values for the particular item categories to measure price change.
+Prices, except for electricity, are collected monthly by BLS representatives in the 75 urban areas priced for the CPI. Electricity prices are collected for the BLS for the same 75 areas on a monthly basis by the Department of Energy using mail questionnaires. All fuel prices include applicable Federal, State, and local taxes; prices for natural gas and electricity also include fuel and purchased gas adjustments.
+-havent checked readiness
+
+
+Global Dataset of Inflation.csv
+scraped from worldbank.org by Belayet Hossain
+CPI data for all worldbank.org categories. 
+-havent checked readiness
+
+
+Container_Ocean_Freight_Rates:
+Socrata Open Data API (SODA) https://agtransport.usda.gov/resource/dtp5-fwp8.json
+downloaded from USDA, provided by Drewry Supply Chain Advisors' Container Freight Rate Insight
+-havent checked readiness
+
+CPI_usedandnewCars.xls
+repeat from BLS_data. Keeping fro proserity. 
+-havent checked readiness
+
+
+BLS_data_01.csv
+Data pulled from US BLS by Ryan. Has automobile CPI, food CPI, and air/land/sea PPI. Ready to load into dataframe. 
