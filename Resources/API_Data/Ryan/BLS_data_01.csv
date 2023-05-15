@@ -1,0 +1,661 @@
+,SeriesID,Year,Period,Month,PPI/CPI
+0,CPI: Food,2023,M04,April,321.566
+1,CPI: Food,2023,M03,March,320.863
+2,CPI: Food,2023,M02,February,320.569
+3,CPI: Food,2023,M01,January,319.136
+4,CPI: Food,2022,M13,Annual,305.388
+5,CPI: Food,2022,M12,December,316.839
+6,CPI: Food,2022,M11,November,315.857
+7,CPI: Food,2022,M10,October,315.323
+8,CPI: Food,2022,M09,September,313.142
+9,CPI: Food,2022,M08,August,310.875
+10,CPI: Food,2022,M07,July,308.532
+11,CPI: Food,2022,M06,June,305.041
+12,CPI: Food,2022,M05,May,302.038
+13,CPI: Food,2022,M04,April,298.711
+14,CPI: Food,2022,M03,March,295.728
+15,CPI: Food,2022,M02,February,292.794
+16,CPI: Food,2022,M01,January,289.772
+17,CPI: Food,2021,M13,Annual,277.756
+18,CPI: Food,2021,M12,December,286.966
+19,CPI: Food,2021,M11,November,285.507
+20,CPI: Food,2021,M10,October,284.205
+21,CPI: Food,2021,M09,September,281.506
+22,CPI: Food,2021,M08,August,279.135
+23,CPI: Food,2021,M07,July,278.127
+24,CPI: Food,2021,M06,June,276.206
+25,CPI: Food,2021,M05,May,274.212
+26,CPI: Food,2021,M04,April,273.09
+27,CPI: Food,2021,M03,March,271.812
+28,CPI: Food,2021,M02,February,271.363
+29,CPI: Food,2021,M01,January,270.938
+30,CPI: Food,2020,M13,Annual,267.219
+31,CPI: Food,2020,M12,December,270.023
+32,CPI: Food,2020,M11,November,269.069
+33,CPI: Food,2020,M10,October,269.828
+34,CPI: Food,2020,M09,September,269.163
+35,CPI: Food,2020,M08,August,269.079
+36,CPI: Food,2020,M07,July,268.863
+37,CPI: Food,2020,M06,June,269.77
+38,CPI: Food,2020,M05,May,268.439
+39,CPI: Food,2020,M04,April,266.757
+40,CPI: Food,2020,M03,March,262.708
+41,CPI: Food,2020,M02,February,261.876
+42,CPI: Food,2020,M01,January,261.057
+43,CPI: Food,2019,M13,Annual,258.316
+44,CPI: Food,2019,M12,December,259.823
+45,CPI: Food,2019,M11,November,259.467
+46,CPI: Food,2019,M10,October,259.632
+47,CPI: Food,2019,M09,September,258.943
+48,CPI: Food,2019,M08,August,258.41
+49,CPI: Food,2019,M07,July,258.274
+50,CPI: Food,2019,M06,June,258.064
+51,CPI: Food,2019,M05,May,258.11
+52,CPI: Food,2019,M04,April,257.708
+53,CPI: Food,2019,M03,March,257.724
+54,CPI: Food,2019,M02,February,257.222
+55,CPI: Food,2019,M01,January,256.417
+56,CPI: Food,2018,M13,Annual,253.558
+57,CPI: Food,2018,M12,December,255.21
+58,CPI: Food,2018,M11,November,254.379
+59,CPI: Food,2018,M10,October,254.358
+60,CPI: Food,2018,M09,September,254.393
+61,CPI: Food,2018,M08,August,254.077
+62,CPI: Food,2018,M07,July,253.746
+63,CPI: Food,2018,M06,June,253.231
+64,CPI: Food,2018,M05,May,253.098
+65,CPI: Food,2018,M04,April,253.209
+66,CPI: Food,2018,M03,March,252.37
+67,CPI: Food,2018,M02,February,252.266
+68,CPI: Food,2018,M01,January,252.361
+69,CPI: Food,2017,M13,Annual,250.065
+70,CPI: Food,2017,M12,December,251.238
+71,CPI: Food,2017,M11,November,250.871
+72,CPI: Food,2017,M10,October,251.364
+73,CPI: Food,2017,M09,September,250.993
+74,CPI: Food,2017,M08,August,250.493
+75,CPI: Food,2017,M07,July,250.214
+76,CPI: Food,2017,M06,June,249.653
+77,CPI: Food,2017,M05,May,250.016
+78,CPI: Food,2017,M04,April,249.739
+79,CPI: Food,2017,M03,March,249.165
+80,CPI: Food,2017,M02,February,248.791
+81,CPI: Food,2017,M01,January,248.242
+82,CPI: Food,2016,M13,Annual,247.931
+83,CPI: Food,2016,M12,December,247.313
+84,CPI: Food,2016,M11,November,247.435
+85,CPI: Food,2016,M10,October,248.073
+86,CPI: Food,2016,M09,September,247.917
+87,CPI: Food,2016,M08,August,247.719
+88,CPI: Food,2016,M07,July,247.554
+89,CPI: Food,2016,M06,June,247.482
+90,CPI: Food,2016,M05,May,247.86
+91,CPI: Food,2016,M04,April,248.413
+92,CPI: Food,2016,M03,March,247.978
+93,CPI: Food,2016,M02,February,248.8
+94,CPI: Food,2016,M01,January,248.631
+95,CPI: Food,2015,M13,Annual,247.235
+96,CPI: Food,2015,M12,December,247.903
+97,CPI: Food,2015,M11,November,248.306
+98,CPI: Food,2015,M10,October,249.052
+99,CPI: Food,2015,M09,September,248.632
+100,CPI: Food,2015,M08,August,247.671
+101,CPI: Food,2015,M07,July,247.003
+102,CPI: Food,2015,M06,June,246.68
+103,CPI: Food,2015,M05,May,246.187
+104,CPI: Food,2015,M04,April,246.121
+105,CPI: Food,2015,M03,March,246.045
+106,CPI: Food,2015,M02,February,246.68
+107,CPI: Food,2015,M01,January,246.538
+108,CPI: Food,2014,M13,Annual,242.725
+109,CPI: Food,2014,M12,December,245.976
+110,CPI: Food,2014,M11,November,245.192
+111,CPI: Food,2014,M10,October,245.166
+112,CPI: Food,2014,M09,September,244.63
+113,CPI: Food,2014,M08,August,243.811
+114,CPI: Food,2014,M07,July,243.034
+115,CPI: Food,2014,M06,June,242.326
+116,CPI: Food,2014,M05,May,242.344
+117,CPI: Food,2014,M04,April,241.337
+118,CPI: Food,2014,M03,March,240.398
+119,CPI: Food,2014,M02,February,239.608
+120,CPI: Food,2014,M01,January,238.872
+121,CPI: Food,2013,M13,Annual,237.037
+122,CPI: Food,2013,M12,December,237.869
+123,CPI: Food,2013,M11,November,237.641
+124,CPI: Food,2013,M10,October,237.871
+125,CPI: Food,2013,M09,September,237.522
+126,CPI: Food,2013,M08,August,237.406
+127,CPI: Food,2013,M07,July,237.001
+128,CPI: Food,2013,M06,June,236.792
+129,CPI: Food,2013,M05,May,236.526
+130,CPI: Food,2013,M04,April,236.841
+131,CPI: Food,2013,M03,March,236.332
+132,CPI: Food,2013,M02,February,236.301
+133,CPI: Food,2013,M01,January,236.341
+134,PPI: Trucking,2023,M04,April,388.056
+135,PPI: Trucking,2023,M03,March,393.394
+136,PPI: Trucking,2023,M02,February,398.398
+137,PPI: Trucking,2023,M01,January,405.547
+138,PPI: Trucking,2022,M13,Annual,405.231
+139,PPI: Trucking,2022,M12,December,393.794
+140,PPI: Trucking,2022,M11,November,408.645
+141,PPI: Trucking,2022,M10,October,400.106
+142,PPI: Trucking,2022,M09,September,409.58
+143,PPI: Trucking,2022,M08,August,408.179
+144,PPI: Trucking,2022,M07,July,419.098
+145,PPI: Trucking,2022,M06,June,436.338
+146,PPI: Trucking,2022,M05,May,424.65
+147,PPI: Trucking,2022,M04,April,410.705
+148,PPI: Trucking,2022,M03,March,403.855
+149,PPI: Trucking,2022,M02,February,372.082
+150,PPI: Trucking,2022,M01,January,375.734
+151,PPI: Trucking,2021,M13,Annual,349.44
+152,PPI: Trucking,2021,M12,December,367.796
+153,PPI: Trucking,2021,M11,November,367.521
+154,PPI: Trucking,2021,M10,October,356.931
+155,PPI: Trucking,2021,M09,September,352.878
+156,PPI: Trucking,2021,M08,August,350.281
+157,PPI: Trucking,2021,M07,July,351.195
+158,PPI: Trucking,2021,M06,June,355.2
+159,PPI: Trucking,2021,M05,May,343.5
+160,PPI: Trucking,2021,M04,April,343.0
+161,PPI: Trucking,2021,M03,March,341.5
+162,PPI: Trucking,2021,M02,February,331.8
+163,PPI: Trucking,2021,M01,January,331.6
+164,PPI: Trucking,2020,M13,Annual,318.5
+165,PPI: Trucking,2020,M12,December,315.4
+166,PPI: Trucking,2020,M11,November,316.4
+167,PPI: Trucking,2020,M10,October,319.7
+168,PPI: Trucking,2020,M09,September,312.8
+169,PPI: Trucking,2020,M08,August,320.1
+170,PPI: Trucking,2020,M07,July,320.9
+171,PPI: Trucking,2020,M06,June,313.8
+172,PPI: Trucking,2020,M05,May,316.5
+173,PPI: Trucking,2020,M04,April,317.6
+174,PPI: Trucking,2020,M03,March,319.8
+175,PPI: Trucking,2020,M02,February,322.1
+176,PPI: Trucking,2020,M01,January,326.5
+177,PPI: Trucking,2019,M13,Annual,317.6
+178,PPI: Trucking,2019,M12,December,312.2
+179,PPI: Trucking,2019,M11,November,319.2
+180,PPI: Trucking,2019,M10,October,318.2
+181,PPI: Trucking,2019,M09,September,316.6
+182,PPI: Trucking,2019,M08,August,320.4
+183,PPI: Trucking,2019,M07,July,317.1
+184,PPI: Trucking,2019,M06,June,320.9
+185,PPI: Trucking,2019,M05,May,320.1
+186,PPI: Trucking,2019,M04,April,314.0
+187,PPI: Trucking,2019,M03,March,316.6
+188,PPI: Trucking,2019,M02,February,318.4
+189,PPI: Trucking,2019,M01,January,317.7
+190,PPI: Trucking,2018,M13,Annual,306.7
+191,PPI: Trucking,2018,M12,December,310.0
+192,PPI: Trucking,2018,M11,November,311.6
+193,PPI: Trucking,2018,M10,October,312.5
+194,PPI: Trucking,2018,M09,September,310.2
+195,PPI: Trucking,2018,M08,August,309.1
+196,PPI: Trucking,2018,M07,July,308.9
+197,PPI: Trucking,2018,M06,June,308.8
+198,PPI: Trucking,2018,M05,May,305.1
+199,PPI: Trucking,2018,M04,April,302.2
+200,PPI: Trucking,2018,M03,March,301.5
+201,PPI: Trucking,2018,M02,February,301.5
+202,PPI: Trucking,2018,M01,January,299.3
+203,PPI: Trucking,2017,M13,Annual,287.2
+204,PPI: Trucking,2017,M12,December,296.1
+205,PPI: Trucking,2017,M11,November,295.2
+206,PPI: Trucking,2017,M10,October,293.1
+207,PPI: Trucking,2017,M09,September,292.6
+208,PPI: Trucking,2017,M08,August,287.4
+209,PPI: Trucking,2017,M07,July,287.0
+210,PPI: Trucking,2017,M06,June,283.7
+211,PPI: Trucking,2017,M05,May,283.9
+212,PPI: Trucking,2017,M04,April,282.3
+213,PPI: Trucking,2017,M03,March,281.6
+214,PPI: Trucking,2017,M02,February,282.1
+215,PPI: Trucking,2017,M01,January,281.1
+216,PPI: Trucking,2016,M13,Annual,271.7
+217,PPI: Trucking,2016,M12,December,279.4
+218,PPI: Trucking,2016,M11,November,277.3
+219,PPI: Trucking,2016,M10,October,275.7
+220,PPI: Trucking,2016,M09,September,269.5
+221,PPI: Trucking,2016,M08,August,272.2
+222,PPI: Trucking,2016,M07,July,272.3
+223,PPI: Trucking,2016,M06,June,271.4
+224,PPI: Trucking,2016,M05,May,270.9
+225,PPI: Trucking,2016,M04,April,271.2
+226,PPI: Trucking,2016,M03,March,267.7
+227,PPI: Trucking,2016,M02,February,268.6
+228,PPI: Trucking,2016,M01,January,263.7
+229,PPI: Trucking,2015,M13,Annual,261.9
+230,PPI: Trucking,2015,M12,December,264.6
+231,PPI: Trucking,2015,M11,November,264.3
+232,PPI: Trucking,2015,M10,October,257.1
+233,PPI: Trucking,2015,M09,September,259.1
+234,PPI: Trucking,2015,M08,August,259.3
+235,PPI: Trucking,2015,M07,July,261.7
+236,PPI: Trucking,2015,M06,June,262.3
+237,PPI: Trucking,2015,M05,May,264.4
+238,PPI: Trucking,2015,M04,April,259.7
+239,PPI: Trucking,2015,M03,March,263.7
+240,PPI: Trucking,2015,M02,February,261.1
+241,PPI: Trucking,2015,M01,January,265.5
+242,PPI: Trucking,2014,M13,Annual,265.9
+243,PPI: Trucking,2014,M12,December,268.2
+244,PPI: Trucking,2014,M11,November,264.8
+245,PPI: Trucking,2014,M10,October,265.5
+246,PPI: Trucking,2014,M09,September,266.8
+247,PPI: Trucking,2014,M08,August,271.9
+248,PPI: Trucking,2014,M07,July,271.2
+249,PPI: Trucking,2014,M06,June,268.4
+250,PPI: Trucking,2014,M05,May,268.6
+251,PPI: Trucking,2014,M04,April,267.8
+252,PPI: Trucking,2014,M03,March,260.5
+253,PPI: Trucking,2014,M02,February,258.5
+254,PPI: Trucking,2014,M01,January,259.1
+255,PPI: Trucking,2013,M13,Annual,255.0
+256,PPI: Trucking,2013,M12,December,260.4
+257,PPI: Trucking,2013,M11,November,257.3
+258,PPI: Trucking,2013,M10,October,258.5
+259,PPI: Trucking,2013,M09,September,257.3
+260,PPI: Trucking,2013,M08,August,256.0
+261,PPI: Trucking,2013,M07,July,254.4
+262,PPI: Trucking,2013,M06,June,255.6
+263,PPI: Trucking,2013,M05,May,250.1
+264,PPI: Trucking,2013,M04,April,251.1
+265,PPI: Trucking,2013,M03,March,255.0
+266,PPI: Trucking,2013,M02,February,253.0
+267,PPI: Trucking,2013,M01,January,251.0
+268,PPI: Air Freight,2023,M04,April,121.866
+269,PPI: Air Freight,2023,M03,March,121.957
+270,PPI: Air Freight,2023,M02,February,123.203
+271,PPI: Air Freight,2023,M01,January,122.922
+272,PPI: Air Freight,2022,M13,Annual,127.823
+273,PPI: Air Freight,2022,M12,December,121.642
+274,PPI: Air Freight,2022,M11,November,123.689
+275,PPI: Air Freight,2022,M10,October,126.069
+276,PPI: Air Freight,2022,M09,September,129.491
+277,PPI: Air Freight,2022,M08,August,130.307
+278,PPI: Air Freight,2022,M07,July,132.235
+279,PPI: Air Freight,2022,M06,June,133.161
+280,PPI: Air Freight,2022,M05,May,129.666
+281,PPI: Air Freight,2022,M04,April,129.937
+282,PPI: Air Freight,2022,M03,March,127.61
+283,PPI: Air Freight,2022,M02,February,123.275
+284,PPI: Air Freight,2022,M01,January,126.794
+285,PPI: Air Freight,2021,M13,Annual,117.661
+286,PPI: Air Freight,2021,M12,December,126.66
+287,PPI: Air Freight,2021,M11,November,124.493
+288,PPI: Air Freight,2021,M10,October,121.327
+289,PPI: Air Freight,2021,M09,September,117.777
+290,PPI: Air Freight,2021,M08,August,115.814
+291,PPI: Air Freight,2021,M07,July,114.903
+292,PPI: Air Freight,2021,M06,June,116.4
+293,PPI: Air Freight,2021,M05,May,114.2
+294,PPI: Air Freight,2021,M04,April,114.2
+295,PPI: Air Freight,2021,M03,March,115.7
+296,PPI: Air Freight,2021,M02,February,114.9
+297,PPI: Air Freight,2021,M01,January,115.7
+298,PPI: Air Freight,2020,M13,Annual,113.3
+299,PPI: Air Freight,2020,M12,December,117.6
+300,PPI: Air Freight,2020,M11,November,113.0
+301,PPI: Air Freight,2020,M10,October,113.1
+302,PPI: Air Freight,2020,M09,September,112.4
+303,PPI: Air Freight,2020,M08,August,113.2
+304,PPI: Air Freight,2020,M07,July,116.5
+305,PPI: Air Freight,2020,M06,June,113.5
+306,PPI: Air Freight,2020,M05,May,113.0
+307,PPI: Air Freight,2020,M04,April,111.5
+308,PPI: Air Freight,2020,M03,March,111.5
+309,PPI: Air Freight,2020,M02,February,111.8
+310,PPI: Air Freight,2020,M01,January,112.4
+311,PPI: Air Freight,2019,M13,Annual,111.8
+312,PPI: Air Freight,2019,M12,December,113.8
+313,PPI: Air Freight,2019,M11,November,112.8
+314,PPI: Air Freight,2019,M10,October,111.4
+315,PPI: Air Freight,2019,M09,September,110.9
+316,PPI: Air Freight,2019,M08,August,110.0
+317,PPI: Air Freight,2019,M07,July,111.8
+318,PPI: Air Freight,2019,M06,June,111.5
+319,PPI: Air Freight,2019,M05,May,111.7
+320,PPI: Air Freight,2019,M04,April,111.9
+321,PPI: Air Freight,2019,M03,March,111.8
+322,PPI: Air Freight,2019,M02,February,111.8
+323,PPI: Air Freight,2019,M01,January,112.0
+324,PPI: Air Freight,2018,M13,Annual,112.1
+325,PPI: Air Freight,2018,M12,December,112.6
+326,PPI: Air Freight,2018,M11,November,112.8
+327,PPI: Air Freight,2018,M10,October,112.6
+328,PPI: Air Freight,2018,M09,September,111.7
+329,PPI: Air Freight,2018,M08,August,111.2
+330,PPI: Air Freight,2018,M07,July,111.6
+331,PPI: Air Freight,2018,M06,June,111.5
+332,PPI: Air Freight,2018,M05,May,113.0
+333,PPI: Air Freight,2018,M04,April,110.9
+334,PPI: Air Freight,2018,M03,March,112.9
+335,PPI: Air Freight,2018,M02,February,112.7
+336,PPI: Air Freight,2018,M01,January,112.2
+337,PPI: Air Freight,2017,M13,Annual,109.7
+338,PPI: Air Freight,2017,M12,December,112.3
+339,PPI: Air Freight,2017,M11,November,111.6
+340,PPI: Air Freight,2017,M10,October,111.2
+341,PPI: Air Freight,2017,M09,September,110.3
+342,PPI: Air Freight,2017,M08,August,109.4
+343,PPI: Air Freight,2017,M07,July,108.7
+344,PPI: Air Freight,2017,M06,June,110.8
+345,PPI: Air Freight,2017,M05,May,106.5
+346,PPI: Air Freight,2017,M04,April,108.4
+347,PPI: Air Freight,2017,M03,March,109.0
+348,PPI: Air Freight,2017,M02,February,107.6
+349,PPI: Air Freight,2017,M01,January,110.5
+350,PPI: Air Freight,2016,M13,Annual,110.7
+351,PPI: Air Freight,2016,M12,December,111.6
+352,PPI: Air Freight,2016,M11,November,108.3
+353,PPI: Air Freight,2016,M10,October,107.5
+354,PPI: Air Freight,2016,M09,September,108.3
+355,PPI: Air Freight,2016,M08,August,109.7
+356,PPI: Air Freight,2016,M07,July,111.3
+357,PPI: Air Freight,2016,M06,June,107.3
+358,PPI: Air Freight,2016,M05,May,112.4
+359,PPI: Air Freight,2016,M04,April,110.7
+360,PPI: Air Freight,2016,M03,March,111.9
+361,PPI: Air Freight,2016,M02,February,114.2
+362,PPI: Air Freight,2016,M01,January,115.9
+363,PPI: Air Freight,2015,M13,Annual,112.5
+364,PPI: Air Freight,2015,M12,December,114.8
+365,PPI: Air Freight,2015,M11,November,114.0
+366,PPI: Air Freight,2015,M10,October,113.4
+367,PPI: Air Freight,2015,M09,September,107.6
+368,PPI: Air Freight,2015,M08,August,109.8
+369,PPI: Air Freight,2015,M07,July,110.6
+370,PPI: Air Freight,2015,M06,June,115.1
+371,PPI: Air Freight,2015,M05,May,114.7
+372,PPI: Air Freight,2015,M04,April,113.7
+373,PPI: Air Freight,2015,M03,March,111.0
+374,PPI: Air Freight,2015,M02,February,112.1
+375,PPI: Air Freight,2015,M01,January,113.2
+376,PPI: Air Freight,2014,M13,Annual,115.8
+377,PPI: Air Freight,2014,M12,December,116.6
+378,PPI: Air Freight,2014,M11,November,114.4
+379,PPI: Air Freight,2014,M10,October,115.4
+380,PPI: Air Freight,2014,M09,September,116.0
+381,PPI: Air Freight,2014,M08,August,115.6
+382,PPI: Air Freight,2014,M07,July,115.7
+383,PPI: Air Freight,2014,M06,June,115.1
+384,PPI: Air Freight,2014,M05,May,115.9
+385,PPI: Air Freight,2014,M04,April,116.1
+386,PPI: Air Freight,2014,M03,March,116.4
+387,PPI: Air Freight,2014,M02,February,115.8
+388,PPI: Air Freight,2014,M01,January,115.9
+389,PPI: Air Freight,2013,M13,Annual,114.9
+390,PPI: Air Freight,2013,M12,December,116.8
+391,PPI: Air Freight,2013,M11,November,115.8
+392,PPI: Air Freight,2013,M10,October,116.4
+393,PPI: Air Freight,2013,M09,September,115.3
+394,PPI: Air Freight,2013,M08,August,114.2
+395,PPI: Air Freight,2013,M07,July,114.2
+396,PPI: Air Freight,2013,M06,June,114.0
+397,PPI: Air Freight,2013,M05,May,114.2
+398,PPI: Air Freight,2013,M04,April,114.0
+399,PPI: Air Freight,2013,M03,March,114.6
+400,PPI: Air Freight,2013,M02,February,114.7
+401,PPI: Air Freight,2013,M01,January,114.8
+402,PPI: Water Freight,2023,M04,April,165.701
+403,PPI: Water Freight,2023,M03,March,166.551
+404,PPI: Water Freight,2023,M02,February,166.993
+405,PPI: Water Freight,2023,M01,January,164.87
+406,PPI: Water Freight,2022,M13,Annual,156.72
+407,PPI: Water Freight,2022,M12,December,168.687
+408,PPI: Water Freight,2022,M11,November,169.126
+409,PPI: Water Freight,2022,M10,October,169.43
+410,PPI: Water Freight,2022,M09,September,169.074
+411,PPI: Water Freight,2022,M08,August,167.226
+412,PPI: Water Freight,2022,M07,July,164.348
+413,PPI: Water Freight,2022,M06,June,160.38
+414,PPI: Water Freight,2022,M05,May,158.8
+415,PPI: Water Freight,2022,M04,April,144.987
+416,PPI: Water Freight,2022,M03,March,135.856
+417,PPI: Water Freight,2022,M02,February,137.087
+418,PPI: Water Freight,2022,M01,January,135.642
+419,PPI: Water Freight,2021,M13,Annual,124.228
+420,PPI: Water Freight,2021,M12,December,134.384
+421,PPI: Water Freight,2021,M11,November,131.903
+422,PPI: Water Freight,2021,M10,October,132.199
+423,PPI: Water Freight,2021,M09,September,128.755
+424,PPI: Water Freight,2021,M08,August,125.679
+425,PPI: Water Freight,2021,M07,July,126.369
+426,PPI: Water Freight,2021,M06,June,125.1
+427,PPI: Water Freight,2021,M05,May,121.6
+428,PPI: Water Freight,2021,M04,April,118.9
+429,PPI: Water Freight,2021,M03,March,116.9
+430,PPI: Water Freight,2021,M02,February,115.6
+431,PPI: Water Freight,2021,M01,January,113.5
+432,PPI: Water Freight,2020,M13,Annual,118.0
+433,PPI: Water Freight,2020,M12,December,114.4
+434,PPI: Water Freight,2020,M11,November,114.3
+435,PPI: Water Freight,2020,M10,October,115.6
+436,PPI: Water Freight,2020,M09,September,116.2
+437,PPI: Water Freight,2020,M08,August,116.8
+438,PPI: Water Freight,2020,M07,July,116.9
+439,PPI: Water Freight,2020,M06,June,117.0
+440,PPI: Water Freight,2020,M05,May,116.9
+441,PPI: Water Freight,2020,M04,April,117.8
+442,PPI: Water Freight,2020,M03,March,121.6
+443,PPI: Water Freight,2020,M02,February,122.1
+444,PPI: Water Freight,2020,M01,January,126.3
+445,PPI: Water Freight,2019,M13,Annual,122.8
+446,PPI: Water Freight,2019,M12,December,125.7
+447,PPI: Water Freight,2019,M11,November,125.0
+448,PPI: Water Freight,2019,M10,October,122.3
+449,PPI: Water Freight,2019,M09,September,122.7
+450,PPI: Water Freight,2019,M08,August,122.0
+451,PPI: Water Freight,2019,M07,July,123.9
+452,PPI: Water Freight,2019,M06,June,123.0
+453,PPI: Water Freight,2019,M05,May,122.9
+454,PPI: Water Freight,2019,M04,April,122.6
+455,PPI: Water Freight,2019,M03,March,122.1
+456,PPI: Water Freight,2019,M02,February,121.6
+457,PPI: Water Freight,2019,M01,January,120.4
+458,PPI: Water Freight,2018,M13,Annual,116.8
+459,PPI: Water Freight,2018,M12,December,120.1
+460,PPI: Water Freight,2018,M11,November,120.2
+461,PPI: Water Freight,2018,M10,October,120.1
+462,PPI: Water Freight,2018,M09,September,119.1
+463,PPI: Water Freight,2018,M08,August,119.1
+464,PPI: Water Freight,2018,M07,July,119.1
+465,PPI: Water Freight,2018,M06,June,117.4
+466,PPI: Water Freight,2018,M05,May,115.4
+467,PPI: Water Freight,2018,M04,April,113.2
+468,PPI: Water Freight,2018,M03,March,112.6
+469,PPI: Water Freight,2018,M02,February,112.8
+470,PPI: Water Freight,2018,M01,January,112.7
+471,PPI: Water Freight,2017,M13,Annual,113.2
+472,PPI: Water Freight,2017,M12,December,111.3
+473,PPI: Water Freight,2017,M11,November,112.2
+474,PPI: Water Freight,2017,M10,October,110.5
+475,PPI: Water Freight,2017,M09,September,110.0
+476,PPI: Water Freight,2017,M08,August,113.4
+477,PPI: Water Freight,2017,M07,July,113.7
+478,PPI: Water Freight,2017,M06,June,114.2
+479,PPI: Water Freight,2017,M05,May,114.4
+480,PPI: Water Freight,2017,M04,April,114.4
+481,PPI: Water Freight,2017,M03,March,114.5
+482,PPI: Water Freight,2017,M02,February,115.3
+483,PPI: Water Freight,2017,M01,January,114.7
+484,PPI: Water Freight,2016,M13,Annual,114.5
+485,PPI: Water Freight,2016,M12,December,115.1
+486,PPI: Water Freight,2016,M11,November,114.9
+487,PPI: Water Freight,2016,M10,October,115.7
+488,PPI: Water Freight,2016,M09,September,114.1
+489,PPI: Water Freight,2016,M08,August,114.0
+490,PPI: Water Freight,2016,M07,July,113.2
+491,PPI: Water Freight,2016,M06,June,114.1
+492,PPI: Water Freight,2016,M05,May,113.9
+493,PPI: Water Freight,2016,M04,April,114.2
+494,PPI: Water Freight,2016,M03,March,114.1
+495,PPI: Water Freight,2016,M02,February,115.0
+496,PPI: Water Freight,2016,M01,January,115.8
+497,PPI: Water Freight,2015,M13,Annual,121.9
+498,PPI: Water Freight,2015,M12,December,116.5
+499,PPI: Water Freight,2015,M11,November,117.9
+500,PPI: Water Freight,2015,M10,October,123.0
+501,PPI: Water Freight,2015,M09,September,122.4
+502,PPI: Water Freight,2015,M08,August,121.3
+503,PPI: Water Freight,2015,M07,July,121.9
+504,PPI: Water Freight,2015,M06,June,122.0
+505,PPI: Water Freight,2015,M05,May,123.1
+506,PPI: Water Freight,2015,M04,April,124.5
+507,PPI: Water Freight,2015,M03,March,123.4
+508,PPI: Water Freight,2015,M02,February,123.5
+509,PPI: Water Freight,2015,M01,January,122.7
+510,PPI: Water Freight,2014,M13,Annual,122.4
+511,PPI: Water Freight,2014,M12,December,124.1
+512,PPI: Water Freight,2014,M11,November,127.2
+513,PPI: Water Freight,2014,M10,October,127.3
+514,PPI: Water Freight,2014,M09,September,124.7
+515,PPI: Water Freight,2014,M08,August,123.2
+516,PPI: Water Freight,2014,M07,July,120.2
+517,PPI: Water Freight,2014,M06,June,120.2
+518,PPI: Water Freight,2014,M05,May,120.0
+519,PPI: Water Freight,2014,M04,April,120.4
+520,PPI: Water Freight,2014,M03,March,121.0
+521,PPI: Water Freight,2014,M02,February,120.7
+522,PPI: Water Freight,2014,M01,January,119.5
+523,PPI: Water Freight,2013,M13,Annual,121.3
+524,PPI: Water Freight,2013,M12,December,119.1
+525,PPI: Water Freight,2013,M11,November,117.7
+526,PPI: Water Freight,2013,M10,October,118.6
+527,PPI: Water Freight,2013,M09,September,117.9
+528,PPI: Water Freight,2013,M08,August,120.8
+529,PPI: Water Freight,2013,M07,July,123.0
+530,PPI: Water Freight,2013,M06,June,122.4
+531,PPI: Water Freight,2013,M05,May,122.7
+532,PPI: Water Freight,2013,M04,April,122.4
+533,PPI: Water Freight,2013,M03,March,123.1
+534,PPI: Water Freight,2013,M02,February,123.9
+535,PPI: Water Freight,2013,M01,January,123.8
+536,CPI: motor vehicles,2023,M04,April,127.794
+537,CPI: motor vehicles,2023,M03,March,126.256
+538,CPI: motor vehicles,2023,M02,February,125.992
+539,CPI: motor vehicles,2023,M01,January,126.813
+540,CPI: motor vehicles,2022,M12,December,127.494
+541,CPI: motor vehicles,2022,M11,November,128.031
+542,CPI: motor vehicles,2022,M10,October,129.122
+543,CPI: motor vehicles,2022,M09,September,129.83
+544,CPI: motor vehicles,2022,M08,August,129.362
+545,CPI: motor vehicles,2022,M07,July,128.822
+546,CPI: motor vehicles,2022,M06,June,129.062
+547,CPI: motor vehicles,2022,M05,May,127.62
+548,CPI: motor vehicles,2022,M04,April,126.689
+549,CPI: motor vehicles,2022,M03,March,126.176
+550,CPI: motor vehicles,2022,M02,February,127.726
+551,CPI: motor vehicles,2022,M01,January,127.97
+552,CPI: motor vehicles,2021,M12,December,126.534
+553,CPI: motor vehicles,2021,M11,November,123.492
+554,CPI: motor vehicles,2021,M10,October,120.727
+555,CPI: motor vehicles,2021,M09,September,118.229
+556,CPI: motor vehicles,2021,M08,August,117.844
+557,CPI: motor vehicles,2021,M07,July,118.033
+558,CPI: motor vehicles,2021,M06,June,117.804
+559,CPI: motor vehicles,2021,M05,May,112.238
+560,CPI: motor vehicles,2021,M04,April,108.021
+561,CPI: motor vehicles,2021,M03,March,103.82
+562,CPI: motor vehicles,2021,M02,February,103.394
+563,CPI: motor vehicles,2021,M01,January,103.679
+564,CPI: motor vehicles,2020,M12,December,104.402
+565,CPI: motor vehicles,2020,M11,November,104.18
+566,CPI: motor vehicles,2020,M10,October,103.783
+567,CPI: motor vehicles,2020,M09,September,102.87
+568,CPI: motor vehicles,2020,M08,August,100.845
+569,CPI: motor vehicles,2020,M07,July,98.74
+570,CPI: motor vehicles,2020,M06,June,97.819
+571,CPI: motor vehicles,2020,M05,May,98.571
+572,CPI: motor vehicles,2020,M04,April,98.616
+573,CPI: motor vehicles,2020,M03,March,99.448
+574,CPI: motor vehicles,2020,M02,February,99.642
+575,CPI: motor vehicles,2020,M01,January,99.495
+576,CPI: motor vehicles,2019,M12,December,99.473
+577,CPI: motor vehicles,2019,M11,November,99.034
+578,CPI: motor vehicles,2019,M10,October,99.071
+579,CPI: motor vehicles,2019,M09,September,99.066
+580,CPI: motor vehicles,2019,M08,August,99.263
+581,CPI: motor vehicles,2019,M07,July,98.992
+582,CPI: motor vehicles,2019,M06,June,99.196
+583,CPI: motor vehicles,2019,M05,May,99.275
+584,CPI: motor vehicles,2019,M04,April,99.635
+585,CPI: motor vehicles,2019,M03,March,99.888
+586,CPI: motor vehicles,2019,M02,February,100.064
+587,CPI: motor vehicles,2019,M01,January,100.479
+588,CPI: motor vehicles,2018,M12,December,100.083
+589,CPI: motor vehicles,2018,M11,November,99.461
+590,CPI: motor vehicles,2018,M10,October,98.825
+591,CPI: motor vehicles,2018,M09,September,98.593
+592,CPI: motor vehicles,2018,M08,August,98.876
+593,CPI: motor vehicles,2018,M07,July,98.738
+594,CPI: motor vehicles,2018,M06,June,98.84
+595,CPI: motor vehicles,2018,M05,May,98.855
+596,CPI: motor vehicles,2018,M04,April,98.758
+597,CPI: motor vehicles,2018,M03,March,99.456
+598,CPI: motor vehicles,2018,M02,February,99.543
+599,CPI: motor vehicles,2018,M01,January,99.521
+600,CPI: motor vehicles,2017,M12,December,98.876
+601,CPI: motor vehicles,2017,M11,November,98.5
+602,CPI: motor vehicles,2017,M10,October,98.164
+603,CPI: motor vehicles,2017,M09,September,97.634
+604,CPI: motor vehicles,2017,M08,August,98.237
+605,CPI: motor vehicles,2017,M07,July,98.361
+606,CPI: motor vehicles,2017,M06,June,98.885
+607,CPI: motor vehicles,2017,M05,May,99.296
+608,CPI: motor vehicles,2017,M04,April,99.352
+609,CPI: motor vehicles,2017,M03,March,99.384
+610,CPI: motor vehicles,2017,M02,February,99.464
+611,CPI: motor vehicles,2017,M01,January,99.269
+612,CPI: motor vehicles,2016,M12,December,99.249
+613,CPI: motor vehicles,2016,M11,November,99.391
+614,CPI: motor vehicles,2016,M10,October,100.001
+615,CPI: motor vehicles,2016,M09,September,100.439
+616,CPI: motor vehicles,2016,M08,August,100.006
+617,CPI: motor vehicles,2016,M07,July,100.279
+618,CPI: motor vehicles,2016,M06,June,100.516
+619,CPI: motor vehicles,2016,M05,May,100.921
+620,CPI: motor vehicles,2016,M04,April,100.717
+621,CPI: motor vehicles,2016,M03,March,100.327
+622,CPI: motor vehicles,2016,M02,February,100.358
+623,CPI: motor vehicles,2016,M01,January,100.214
+624,CPI: motor vehicles,2015,M12,December,100.179
+625,CPI: motor vehicles,2015,M11,November,100.414
+626,CPI: motor vehicles,2015,M10,October,100.69
+627,CPI: motor vehicles,2015,M09,September,100.948
+628,CPI: motor vehicles,2015,M08,August,101.006
+629,CPI: motor vehicles,2015,M07,July,101.232
+630,CPI: motor vehicles,2015,M06,June,101.305
+631,CPI: motor vehicles,2015,M05,May,101.265
+632,CPI: motor vehicles,2015,M04,April,101.067
+633,CPI: motor vehicles,2015,M03,March,100.784
+634,CPI: motor vehicles,2015,M02,February,100.458
+635,CPI: motor vehicles,2015,M01,January,100.008
+636,CPI: motor vehicles,2014,M12,December,100.468
+637,CPI: motor vehicles,2014,M11,November,100.816
+638,CPI: motor vehicles,2014,M10,October,101.082
+639,CPI: motor vehicles,2014,M09,September,101.032
+640,CPI: motor vehicles,2014,M08,August,100.832
+641,CPI: motor vehicles,2014,M07,July,100.724
+642,CPI: motor vehicles,2014,M06,June,100.615
+643,CPI: motor vehicles,2014,M05,May,100.734
+644,CPI: motor vehicles,2014,M04,April,100.754
+645,CPI: motor vehicles,2014,M03,March,100.742
+646,CPI: motor vehicles,2014,M02,February,100.878
+647,CPI: motor vehicles,2014,M01,January,101.026
+648,CPI: motor vehicles,2013,M12,December,101.536
+649,CPI: motor vehicles,2013,M11,November,101.568
+650,CPI: motor vehicles,2013,M10,October,101.469
+651,CPI: motor vehicles,2013,M09,September,101.27
+652,CPI: motor vehicles,2013,M08,August,100.864
+653,CPI: motor vehicles,2013,M07,July,100.802
+654,CPI: motor vehicles,2013,M06,June,100.647
+655,CPI: motor vehicles,2013,M05,May,100.41
+656,CPI: motor vehicles,2013,M04,April,100.471
+657,CPI: motor vehicles,2013,M03,March,100.558
+658,CPI: motor vehicles,2013,M02,February,100.765
+659,CPI: motor vehicles,2013,M01,January,100.919
