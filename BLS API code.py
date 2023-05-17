@@ -20,6 +20,7 @@ FiguresPath = '../Resources/Figures/'
 #For scraping BLS. First get the series you are interested in. Searchable at:  https://beta.bls.gov/dataQuery/find?st=0&r=20&s=popularity%3AD&fq=survey:[cu]&more=0
 # you can view the series online at, for e.g.: https://beta.bls.gov/dataViewer/view/timeseries/CUUR0000SAF1
 
+saving = 'y'
 
 from api_keys import BLS_key
 BLSUrl = 'https://api.bls.gov/publicAPI/v2/timeseries/data/'
@@ -86,12 +87,18 @@ for Series in SeriesDict:
     DF = BLS_Dataframe.loc[BLS_Dataframe['SeriesID'] == Series]
     SeriesSaveName = f'{APIDataPath}BLS_{SeriesDict[Series]}_data_01.csv'
     DF = DF.replace({'SeriesID' : SeriesDict})
-    DF['NormValue'] = DF['PPI/CPI']/(DF.loc[DF['Date'] == '01-01-2013','PPI/CPI'].iloc[0])
-    DF.to_csv(SeriesSaveName)
+    NormValue = DF['PPI/CPI'].max()
+    DF['NormValue'] = DF['PPI/CPI']/(NormValue)*100
+    if saving == 'y':
+        DF.to_csv(SeriesSaveName)
 
 
 BLS_Dataframe = BLS_Dataframe.replace({'SeriesID' : SeriesDict})
 SaveName = f'{APIDataPath}BLS_data_01.csv'
+
+if saving == 'y':
+    BLS_Dataframe.to_csv(SaveName)
+else:
+    print('Saving not selected.')
     
-BLS_Dataframe.to_csv(SaveName)
     

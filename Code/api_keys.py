@@ -9,3 +9,4 @@ Geoapify_key = "5f3e3b9c92f0408cae7e05687fdf496c"
 
 #Bureau of Labor Stats Key
 BLS_key = "89c3dcdca6574c02bc9f898e4a2ceb67"
+
